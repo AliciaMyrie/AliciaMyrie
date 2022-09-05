@@ -1,16 +1,31 @@
-### Hi there 👋
+### <p align="center">About Me <br>
+  <br>
+</p>
+<p align="center">
+  Software engineer with a passion for developing and chatting all things tech<br>
+<br>
+</p>
 
-<!--
-**AliciaMyrie/AliciaMyrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=AliciaMyrie&show_icons=true&theme=cobalt" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)](https://github.com/AliciaMyrie)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
