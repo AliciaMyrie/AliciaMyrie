@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=AliciaMyrie&show_icons=true&theme=cobalt" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=AliciaMyrie&show_icons=true&theme=dark" />
 
 </div>
 
