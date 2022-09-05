@@ -12,8 +12,11 @@
 </div>
 
 
+<p align="center">
 
 ### [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Node.js,React)](https://github.com/AliciaMyrie)
+  </p>
+
 
 
 
