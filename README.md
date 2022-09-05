@@ -6,9 +6,9 @@
 <br>
 </p>
 
-<div style="display: flex; flex-direction: row;">
+<h2 align= "center">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=AliciaMyrie&show_icons=true&theme=dark" />
-
+</h2>
 </div>
 
 
