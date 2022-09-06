@@ -7,7 +7,8 @@
 </p>
 
 <h2 align= "center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=AliciaMyrie&show_icons=true&theme=dark" />
+ 
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=AliciaMyrie&show_icons=true&&hide=contribs,prs&theme=dark" />
 </h2>
 </div>
 
